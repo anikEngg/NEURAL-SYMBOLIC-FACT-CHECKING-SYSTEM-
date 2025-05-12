@@ -1,0 +1,5 @@
+@prefix ex: <http://example.org/> .
+
+ex:BarackObama ex:bornIn ex:Hawaii .
+ex:BarackObama ex:presidentOf ex:USA .
+ex:Paris ex:capitalOf ex:France .
